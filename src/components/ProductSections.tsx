@@ -23,13 +23,16 @@ const categories = [
   ],
 ];
 
+const CIRCUMFERENCE = 2 * Math.PI * 32;
+
 export function Categories() {
   return (
     <section className="category-grid" aria-label="Product categories">
       {categories.map(([title, text, image]) => (
         <a className="category-card" href="#products" key={title}>
-          <img src={image} alt="" />
-          <div>
+          <img className="category-card-bg" src={image} alt="" />
+          <span className="category-card-overlay" aria-hidden="true" />
+          <div className="category-card-content">
             <h3>{title}</h3>
             <p>{text}</p>
           </div>
@@ -51,16 +54,68 @@ export function FeaturedProducts() {
         </span>
       </header>
       <div className="product-grid">
-        {products.map((product) => (
-          <article className="product-card" key={product.name}>
-            <a href="#products" className="product-image">
-              <img src={product.image} alt={product.name} />
-            </a>
-            <h3>{product.name}</h3>
-            <p>{product.description}</p>
-            <strong>{product.price}</strong>
-          </article>
-        ))}
+        {products.map((product) => {
+          const stats = product.stats ?? [];
+          return (
+            <article className="product-card" key={product.name}>
+              <a href="#products" className="product-image">
+                <img src={product.image} alt={product.name} />
+                {stats.length > 0 && (
+                  <div className="product-hover-stats" aria-hidden="true">
+                    <div
+                      className={`product-stats-row product-stats-count-${stats.length}`}
+                    >
+                      {stats.map((stat) => {
+                        const offset = CIRCUMFERENCE * (1 - stat.percent / 100);
+                        return (
+                          <div className="product-stat-item" key={stat.label}>
+                            <div className="product-stat-circle">
+                              <svg
+                                viewBox="0 0 76 76"
+                                className="product-progress-svg"
+                              >
+                                <circle
+                                  className="product-progress-bg"
+                                  cx="38"
+                                  cy="38"
+                                  r="32"
+                                />
+                                <circle
+                                  className="product-progress-bar"
+                                  cx="38"
+                                  cy="38"
+                                  r="32"
+                                  style={{
+                                    strokeDasharray: CIRCUMFERENCE,
+                                    strokeDashoffset: offset,
+                                  }}
+                                />
+                              </svg>
+                              <span>{stat.percent}%</span>
+                            </div>
+                            <p>{stat.label}</p>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
+              </a>
+              <div className="product-content">
+                <a href="#products" className="product-title">
+                  <h3>{product.name}</h3>
+                </a>
+                <p className="product-desc">{product.description}</p>
+                <strong className="product-price">{product.price}</strong>
+                <div className="product-action">
+                  <a href="#products" className="product-view-btn">
+                    View Product
+                  </a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
       </div>
       <a className="text-link" href="#products">
         See All Products <span>↗</span>
