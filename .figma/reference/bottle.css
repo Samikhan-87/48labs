@@ -1,0 +1,297 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&display=swap');
+
+.xlab-scroll-bottle,
+.xlab-scroll-bottle * {
+  box-sizing: border-box;
+}
+
+.xlab-scroll-bottle {
+  position: relative;
+
+  /* Slower scroll animation restored */
+  height: 600vh;
+
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+.xlab-scroll-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+  background: transparent !important;
+  font-family: Kanit, sans-serif;
+}
+
+.xlab-stat-content {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.xlab-stat-box {
+  position: absolute;
+  will-change: transform, opacity;
+}
+
+/* 99% */
+.xlab-stat-first {
+  left: 8%;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.xlab-stat-first h2 {
+  margin: 0;
+  color: #05D2FE;
+  font-family: Kanit, sans-serif;
+  font-size: 182px;
+  font-weight: 500;
+  line-height: 254.8px;
+  text-transform: uppercase;
+  overflow-wrap: break-word;
+}
+
+.xlab-stat-first h3 {
+  margin: -28px 0 0;
+  color: #484A51;
+  font-family: Kanit, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 40px;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+/* Brown outer casing text - shown at the same time as 99% PURITY */
+.xlab-stat-uv {
+  right: 14%;
+  left: auto;
+  top: 50%;
+  width: 560px;
+  max-width: 44vw;
+  transform: translate(0, -50%);
+}
+
+.xlab-stat-uv h3 {
+  margin: 0;
+  color: #484A51;
+  font-family: Kanit, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 46px;
+  text-transform: uppercase;
+  text-align: right;
+  overflow-wrap: break-word;
+}
+
+/* Premium text */
+.xlab-stat-second {
+  left: 60%;
+  top: 50%;
+  width: 460px;
+  max-width: 90vw;
+  transform: translate(calc(-50% + 120vw), -50%);
+}
+
+.xlab-stat-second h4 {
+  margin: 0 0 14px;
+  color: #484A51;
+  font-family: Kanit, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  overflow-wrap: break-word;
+}
+
+.xlab-stat-second p {
+  margin: 0;
+  color: #484A51;
+  font-family: Kanit, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  overflow-wrap: break-word;
+}
+
+/* Bottle */
+.xlab-bottle-wrap {
+  position: absolute;
+  z-index: 3;
+  left: 88%;
+  top: 50%;
+  width: 300px;
+  height: 480px;
+  overflow: visible;
+  transform: translate(calc(-50% + 120vw), -50%);
+  opacity: 0;
+  visibility: hidden;
+  will-change: left, transform, opacity;
+}
+
+.xlab-bottle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 230px;
+  height: auto;
+  max-height: 480px;
+  object-fit: contain;
+  transform: translate(-50%, -50%);
+  transform-origin: center;
+  will-change: clip-path;
+}
+
+.xlab-bottle-one {
+  clip-path: inset(0 0 0 0);
+}
+
+.xlab-bottle-two {
+  clip-path: inset(100% 0 0 0);
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .xlab-stat-first {
+    left: 3%;
+  }
+
+  .xlab-stat-first h2 {
+    font-size: 120px;
+    line-height: 150px;
+  }
+
+  .xlab-stat-first h3 {
+    margin-top: -14px;
+    font-size: 30px;
+    line-height: 32px;
+  }
+
+  .xlab-stat-second {
+    width: 380px;
+  }
+
+  .xlab-stat-uv {
+    right: 3%;
+    left: auto;
+    width: 360px;
+    max-width: 42vw;
+  }
+
+  .xlab-stat-uv h3 {
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+  }
+
+  .xlab-bottle-wrap {
+    width: 270px;
+    height: 430px;
+  }
+
+  .xlab-bottle {
+    width: 210px;
+    max-height: 430px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .xlab-scroll-bottle {
+    /* Slower mobile scroll animation restored */
+    height: 450vh !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  .xlab-scroll-sticky {
+    height: 100svh !important;
+    overflow: hidden !important;
+  }
+
+  .xlab-stat-first {
+    left: 8px;
+    top: 50%;
+    width: calc(50vw - 12px);
+    max-width: calc(50vw - 12px);
+    transform: translate(0, -50%);
+    visibility: visible;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .xlab-stat-first h2 {
+    font-size: 58px;
+    line-height: 66px;
+    text-align: left;
+  }
+
+  .xlab-stat-first h3 {
+    margin-top: -6px;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: left;
+  }
+
+  .xlab-stat-uv {
+    right: 8px;
+    left: auto;
+    top: 50%;
+    width: calc(50vw - 12px);
+    max-width: calc(50vw - 12px);
+    transform: translate(0, -50%);
+    visibility: visible;
+    opacity: 1;
+    text-align: right;
+  }
+
+  .xlab-stat-uv h3 {
+    font-size: 17px;
+    line-height: 21px;
+    text-align: right;
+  }
+
+  .xlab-stat-second {
+    left: 50%;
+    top: 50%;
+    width: calc(100vw - 48px);
+    max-width: calc(100vw - 48px);
+    text-align: center;
+    transform: translate(calc(-50% + 120vw), -50%);
+    visibility: hidden;
+    opacity: 0;
+  }
+
+  .xlab-stat-second h4 {
+    margin-bottom: 12px;
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .xlab-stat-second p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .xlab-bottle-wrap {
+    left: 50%;
+    top: 50%;
+    width: 240px;
+    height: 390px;
+    transform: translate(calc(-50% + 120vw), -50%);
+    visibility: hidden;
+    opacity: 0;
+  }
+
+  .xlab-bottle {
+    width: 190px;
+    max-height: 390px;
+  }
+}</style>

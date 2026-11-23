@@ -1,0 +1,10 @@
+{
+  "description": "Explore 48xLabs’ high-purity supplement products, learn about their benefits, and experience an immersive, scroll-driven product showcase.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

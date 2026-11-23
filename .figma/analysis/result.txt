@@ -1,0 +1,381 @@
+status: exited
+stdout file: /figaro/tool-output/bash/7/stdout (49166 bytes)
+stderr file: /figaro/tool-output/bash/7/stderr (0 bytes)
+exit code: 0
+
+--- stdout ---
+--- sections by top ---
+48:      <div className="absolute h-[882px] left-0 top-0 w-[1920px]" data-node-id="0:122">
+49:        <div className="absolute h-[90.31px] left-0 top-0 w-[1920px]" data-node-id="0:123" data-name="Container">
+50:          <div className="absolute bg-gradient-to-r from-black h-[90.31px] left-0 to-[rgba(0,0,0,0)] top-0 w-[1920px]" data-node-id="0:124" data-name="Gradient" />
+52:          <div className="-translate-y-1/2 absolute border-[rgba(255,255,255,0.35)] border-b border-solid h-[90.31px] left-[76.8px] right-[76.79px] top-1/2" data-node-id="0:126" data-name="HorizontalBorder">
+53:            <div className="absolute aspect-[163.66000366210938/27.579999923706055] bottom-[34.07px] left-0 opacity-0 overflow-clip top-[27.66px]" data-node-id="0:127" data-name="Link → logo-horizontal-blue-black.svg">
+54:              <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[27.58px] left-1/2 overflow-clip top-1/2 w-[163.578px]" data-node-id="0:128" data-name="logo-horizontal-blue-black.svg">
+62:            <div className="absolute border border-[rgba(0,0,0,0)] border-solid bottom-[20.65px] left-[1398.86px] overflow-clip rounded-[50px] top-[22.66px] w-[190px]" data-node-id="0:140" data-name="Search → Form">
+65:                <div className="absolute h-[21px] left-[43px] overflow-clip right-[17.25px] top-[10.5px]" data-node-id="0:142" data-name="Container">
+66:                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[21px] justify-center leading-[0] left-0 not-italic text-[14px] text-white top-[10.5px] w-[42.749px]" data-node-id="0:143">
+71:              <div className="absolute bottom-[10px] left-[10px] overflow-clip top-[10px] w-[24px]" data-node-id="0:144" data-name="Label → SVG">
+78:            <div className="absolute bg-[rgba(255,255,255,0.65)] bottom-[26.65px] left-[1605.86px] top-[26.66px] w-px" data-node-id="0:146" data-name="Vertical Divider" />
+79:            <div className="absolute bottom-[24.65px] left-[1628.86px] overflow-clip top-[27.66px] w-[37px]" data-node-id="0:147" data-name="Link → SVG">
+89:            <div className="absolute bg-[rgba(255,255,255,0.65)] bottom-[26.65px] left-[1691.06px] top-[26.66px] w-px" data-node-id="0:150" data-name="Vertical Divider" />
+92:                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[25px] not-italic text-[16px] text-white top-1/2 w-[66.913px]" data-node-id="0:153">
+95:                <div className="absolute bg-[#05d2fe] bottom-0 h-[2px] left-0 opacity-0 right-0" data-node-id="0:154" data-name="Horizontal Divider" />
+98:                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[25px] not-italic text-[16px] text-white top-1/2 w-[36.891px]" data-node-id="0:156">
+104:                <div className="absolute bg-[#05d2fe] bottom-0 h-[2px] left-0 opacity-0 right-0" data-node-id="0:159" data-name="Horizontal Divider" />
+107:                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[25px] not-italic text-[16px] text-white top-1/2 w-[36.229px]" data-node-id="0:161">
+110:                <div className="absolute bg-[#05d2fe] bottom-0 h-[2px] left-0 opacity-0 right-0" data-node-id="0:162" data-name="Horizontal Divider" />
+113:                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[25px] not-italic text-[16px] text-white top-1/2 w-[78.01px]" data-node-id="0:164">
+116:                <div className="absolute bg-[#05d2fe] bottom-0 h-[2px] left-0 opacity-0 right-0" data-node-id="0:165" data-name="Horizontal Divider" />
+119:            <div className="absolute bottom-[27.65px] left-[1714.06px] top-[27.66px] w-[34px]" data-node-id="0:166" data-name="Link">
+124:                <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[16px] justify-center leading-[0] left-[calc(50%+0.18px)] not-italic text-[0px] text-center text-white top-1/2 w-[7.576px]" data-node-id="0:173">
+131:        <div className="absolute h-[791.56px] left-0 overflow-clip right-0 top-[90px]" data-node-id="0:174" data-name="Background">
+135:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[calc(50%-116.86px)] not-italic text-[#05d2fe] text-[18px] top-[316.19px] w-[234.102px]" data-node-id="0:175">
+138:          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[56px] justify-center leading-[0] left-[calc(50%+0.17px)] not-italic text-[0px] text-center text-white top-[373.19px] w-[753.457px]" data-node-id="0:176">
+145:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[48px] justify-center leading-[0] left-[32.26%] not-italic right-[32.25%] text-[16px] text-center text-white top-[445.19px]" data-node-id="0:177">
+149:          <div className="-translate-x-1/2 absolute backdrop-blur-[0.5px] bg-gradient-to-r from-[rgba(156,157,161,0.3)] h-[52px] left-1/2 overflow-clip rounded-[50px] to-[rgba(0,0,0,0.3)] top-[503.58px] w-[170px]" data-node-id="0:178" data-name="Link">
+154:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[calc(50%-18.34px)] not-italic text-[#05d2fe] text-[18px] text-center top-1/2 w-[80.704px]" data-node-id="0:187">
+158:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[48px] justify-center leading-[0] left-[26%] not-italic right-[25.99%] text-[16px] text-center text-white top-[599.58px]" data-node-id="0:188">
+164:      <div className="absolute bg-black h-[62px] left-0 right-0 top-[881.56px]" data-node-id="0:189" data-name="Background">
+165:        <div className="absolute h-[62px] left-0 overflow-clip right-0 top-0" data-node-id="0:190" data-name="Container">
+166:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-0 text-[22px] text-white top-[31px] w-[179.219px]" data-node-id="0:191">
+169:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[228.88px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:192">
+172:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[283.08px] text-[22px] text-white top-[31px] w-[138.777px]" data-node-id="0:193">
+175:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[471.55px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:194">
+178:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[525.75px] text-[#05d2fe] text-[22px] top-[31px] w-[194.791px]" data-node-id="0:195">
+181:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[770.19px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:196">
+184:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[824.39px] text-[22px] text-white top-[31px] w-[184.363px]" data-node-id="0:197">
+187:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[1058.41px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:198">
+190:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[1112.61px] text-[22px] text-white top-[31px] w-[179.219px]" data-node-id="0:199">
+193:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[1341.48px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:200">
+196:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[1395.69px] text-[22px] text-white top-[31px] w-[138.777px]" data-node-id="0:201">
+199:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[1584.16px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:202">
+202:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Italic'] h-[22px] italic justify-center leading-[0] left-[1638.36px] text-[#05d2fe] text-[22px] top-[31px] w-[194.791px]" data-node-id="0:203">
+205:          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[22px] justify-center leading-[0] left-[1882.8px] not-italic text-[22px] text-white top-[31px] w-[4.56px]" data-node-id="0:204">
+212:      <div className="absolute h-[450px] left-[120px] right-[120px] top-[1063.56px]" data-node-id="0:207" data-name="Container">
+213:        <div className="absolute h-[450px] left-0 overflow-clip right-[1272px] rounded-[10px] top-0" data-node-id="0:208" data-name="Link">
+214:          <div className="absolute h-[463.08px] left-[-6.12px] top-[-6.54px] w-[420.24px]" data-node-id="0:209" data-name="Image+Background">
+222:          <div className="absolute bg-gradient-to-b from-1/4 from-[rgba(0,0,0,0.02)] h-[454px] left-[-2px] to-[rgba(0,0,0,0.82)] top-[-2px] via-[55%] via-[rgba(0,0,0,0.18)] w-[412px]" data-node-id="0:210" data-name="Background">
+225:          <div className="[word-break:break-word] absolute bottom-[86.39px] flex flex-col font-['Kanit:Medium'] h-[28px] justify-center leading-[0] left-[143.3px] not-italic right-[142.92px] text-[20px] text-center text-white translate-y-1/2 uppercase" data-node-id="0:212">
+228:          <div className="[word-break:break-word] absolute bottom-[15.59px] flex flex-col font-['Kanit:Regular'] h-[65.6px] justify-center leading-[0] left-[93.34px] not-italic opacity-0 right-[93.16px] text-[16px] text-center text-white translate-y-1/2" data-node-id="0:213">
+234:        <div className="absolute h-[450px] left-[424px] overflow-clip right-[848px] rounded-[10px] top-0" data-node-id="0:214" data-name="Link">
+235:          <div className="absolute h-[463.08px] left-[-6.12px] top-[-6.54px] w-[420.24px]" data-node-id="0:215" data-name="Image+Background">
+243:          <div className="absolute bg-gradient-to-b from-1/4 from-[rgba(0,0,0,0.02)] h-[454px] left-[-2px] to-[rgba(0,0,0,0.82)] top-[-2px] via-[55%] via-[rgba(0,0,0,0.18)] w-[412px]" data-node-id="0:216" data-name="Background">
+246:          <div className="[word-break:break-word] absolute bottom-[86.39px] flex flex-col font-['Kanit:Medium'] h-[28px] justify-center leading-[0] left-[121.91px] not-italic right-[121.57px] text-[20px] text-center text-white translate-y-1/2 uppercase" data-node-id="0:218">
+249:          <div className="[word-break:break-word] absolute bottom-[15.59px] flex flex-col font-['Kanit:Regular'] h-[65.6px] justify-center leading-[0] left-[79.02px] not-italic opacity-0 right-[78.82px] text-[16px] text-center text-white translate-y-1/2" data-node-id="0:219">
+255:        <div className="absolute h-[450px] left-[848px] overflow-clip right-[424px] rounded-[10px] top-0" data-node-id="0:220" data-name="Link">
+256:          <div className="absolute h-[463.08px] left-[-6.12px] top-[-6.54px] w-[420.24px]" data-node-id="0:221" data-name="Image+Background">
+264:          <div className="absolute bg-gradient-to-b from-1/4 from-[rgba(0,0,0,0.02)] h-[454px] left-[-2px] to-[rgba(0,0,0,0.82)] top-[-2px] via-[55%] via-[rgba(0,0,0,0.18)] w-[412px]" data-node-id="0:222" data-name="Background">
+267:          <div className="[word-break:break-word] absolute bottom-[86.39px] flex flex-col font-['Kanit:Medium'] h-[28px] justify-center leading-[0] left-[151.16px] not-italic right-[150.81px] text-[20px] text-center text-white translate-y-1/2 uppercase" data-node-id="0:224">
+270:          <div className="[word-break:break-word] absolute bottom-[15.59px] flex flex-col font-['Kanit:Regular'] h-[65.6px] justify-center leading-[0] left-[71.22px] not-italic opacity-0 right-[71.02px] text-[16px] text-center text-white translate-y-1/2" data-node-id="0:225">
+276:        <div className="absolute h-[450px] left-[1272px] overflow-clip right-0 rounded-[10px] top-0" data-node-id="0:226" data-name="Link">
+277:          <div className="absolute h-[463.08px] left-[-6.12px] top-[-6.54px] w-[420.24px]" data-node-id="0:227" data-name="Image+Background">
+285:          <div className="absolute bg-gradient-to-b from-1/4 from-[rgba(0,0,0,0.02)] h-[454px] left-[-2px] to-[rgba(0,0,0,0.82)] top-[-2px] via-[55%] via-[rgba(0,0,0,0.18)] w-[412px]" data-node-id="0:228" data-name="Background">
+288:          <div className="[word-break:break-word] absolute bottom-[86.39px] flex flex-col font-['Kanit:Medium'] h-[28px] justify-center leading-[0] left-[155.27px] not-italic right-[154.93px] text-[20px] text-center text-white translate-y-1/2 uppercase" data-node-id="0:230">
+291:          <div className="[word-break:break-word] absolute bottom-[15.59px] flex flex-col font-['Kanit:Regular'] h-[65.6px] justify-center leading-[0] left-[77.39px] not-italic opacity-0 right-[77.21px] text-[16px] text-center text-white translate-y-1/2" data-node-id="0:231">
+298:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[871.22px] not-italic right-[870.88px] text-[#05d2fe] text-[18px] text-center top-[1642.56px]" data-node-id="0:232">
+301:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[636.38px] not-italic right-[636.04px] text-[#484a51] text-[40px] text-center top-[1691.56px]" data-node-id="0:233">
+304:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[551.45px] not-italic right-[551.11px] text-[#484a51] text-[16px] text-center top-[1743.56px]" data-node-id="0:234">
+307:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[328.25px] not-italic right-[1521.56px] text-[#484a51] text-[20px] text-center top-[2239.96px] uppercase" data-node-id="0:235">
+310:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[43.2px] justify-center leading-[0] left-[186px] not-italic right-[1379.44px] text-[#484a51] text-[16px] text-center top-[2276.56px]" data-node-id="0:236">
+314:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[299.84px] not-italic right-[1493.05px] text-[#05d2fe] text-[20px] text-center top-[2324.36px]" data-node-id="0:237">
+317:      <div className="absolute bg-black h-[420px] left-[76.8px] overflow-clip right-[1270.4px] rounded-[12px] top-[1789.96px]" data-node-id="0:238" data-name="Link">
+318:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:239" data-name="GLP-X3">
+324:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[932.88px] not-italic right-[932.52px] text-[#484a51] text-[20px] text-center top-[2239.96px] uppercase" data-node-id="0:240">
+327:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.4px] justify-center leading-[0] left-[780.28px] not-italic right-[780.13px] text-[#484a51] text-[16px] text-center top-[2286.16px]" data-node-id="0:241">
+332:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[898.55px] not-italic right-[898.19px] text-[#05d2fe] text-[20px] text-center top-[2343.56px]" data-node-id="0:242">
+335:      <div className="absolute bg-black h-[420px] left-[673.59px] overflow-clip right-[673.61px] rounded-[12px] top-[1789.96px]" data-node-id="0:243" data-name="Link">
+336:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:244" data-name="Glow">
+342:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[1503.47px] not-italic right-[309.53px] text-[#484a51] text-[20px] text-center top-[2239.96px] uppercase" data-node-id="0:245">
+345:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.4px] justify-center leading-[0] left-[1388.88px] not-italic right-[195.13px] text-[#484a51] text-[16px] text-center top-[2286.16px]" data-node-id="0:246">
+350:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[1501.69px] not-italic right-[307.74px] text-[#05d2fe] text-[20px] text-center top-[2343.56px]" data-node-id="0:247">
+353:      <div className="absolute bg-black h-[420px] left-[1270.39px] overflow-clip right-[76.81px] rounded-[12px] top-[1789.96px]" data-node-id="0:248" data-name="Link">
+354:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:249" data-name="Wolverine">
+360:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[252.67px] not-italic right-[1445.91px] text-[#484a51] text-[20px] text-center top-[2859.56px] uppercase" data-node-id="0:250">
+363:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[195px] not-italic right-[1388.42px] text-[#484a51] text-[16px] text-center top-[2905.77px]" data-node-id="0:251">
+368:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[308.42px] not-italic right-[1501.66px] text-[#05d2fe] text-[20px] text-center top-[2963.17px]" data-node-id="0:252">
+371:      <div className="absolute bg-black h-[420px] left-[76.8px] overflow-clip right-[1270.4px] rounded-[12px] top-[2409.56px]" data-node-id="0:253" data-name="Link">
+372:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:254" data-name="KISSpeptin 10-acetate">
+378:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[926.98px] not-italic right-[926.72px] text-[#484a51] text-[20px] text-center top-[2859.56px] uppercase" data-node-id="0:255">
+381:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[805.73px] not-italic right-[805.57px] text-[#484a51] text-[16px] text-center top-[2905.77px]" data-node-id="0:256">
+386:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[905.55px] not-italic right-[905.21px] text-[#05d2fe] text-[20px] text-center top-[2963.17px]" data-node-id="0:257">
+389:      <div className="absolute bg-black h-[420px] left-[673.59px] overflow-clip right-[673.61px] rounded-[12px] top-[2409.56px]" data-node-id="0:258" data-name="Link">
+390:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:259" data-name="Semax">
+396:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[24px] justify-center leading-[0] left-[1519.77px] not-italic right-[325.89px] text-[#484a51] text-[20px] text-center top-[2859.56px] uppercase" data-node-id="0:260">
+399:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[1398.91px] not-italic right-[205.14px] text-[#484a51] text-[16px] text-center top-[2905.77px]" data-node-id="0:261">
+404:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[1500.91px] not-italic right-[306.96px] text-[#05d2fe] text-[20px] text-center top-[2963.17px]" data-node-id="0:262">
+407:      <div className="absolute bg-black h-[420px] left-[1270.39px] overflow-clip right-[76.81px] rounded-[12px] top-[2409.56px]" data-node-id="0:263" data-name="Link">
+408:        <div className="absolute h-[420px] left-0 right-0 rounded-[12px] top-0" data-node-id="0:264" data-name="Selank">
+414:      <div className="absolute h-[27px] left-[72.8px] right-[72.79px] top-[2989.17px]" data-node-id="0:265" data-name="List">
+418:        <div className="-translate-x-1/2 absolute bottom-[6.5px] left-[calc(50%+65.9px)] overflow-clip top-[6.5px] w-[14px]" data-node-id="0:267" data-name="Item → Link → SVG">
+424:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[916.2px] not-italic right-[915.87px] text-[#05d2fe] text-[18px] text-center top-[3145.17px]" data-node-id="0:269">
+427:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[658.75px] not-italic right-[658.45px] text-[#484a51] text-[40px] text-center top-[3194.17px]" data-node-id="0:270">
+430:      <div className="absolute h-[5598.83px] inset-[3212.17px_76.79px_0_76.8px] pointer-events-none" data-node-id="0:271">
+444:      <div className="absolute h-[598.78px] left-0 right-0 top-[5034.77px]" data-node-id="0:275" data-name="Background">
+448:        <div className="absolute bottom-[134.39px] left-[76.8px] top-[134.39px] w-[1478px]" data-node-id="0:276" data-name="Section">
+449:          <div className="absolute bg-white h-[330px] left-0 overflow-clip rounded-[10px] top-0 w-[356px]" data-node-id="0:277" data-name="Background">
+450:            <div className="-translate-x-1/2 absolute left-1/2 size-[86px] top-[57px]" data-node-id="0:278" data-name="Trusted Quality">
+455:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[28px] justify-center leading-[0] left-[calc(50%+0.15px)] not-italic text-[#484a51] text-[20px] text-center top-[183px] uppercase w-[170.002px]" data-node-id="0:279">
+458:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[calc(50%+0.09px)] not-italic text-[#484a51] text-[16px] text-center top-[239.2px] w-[270.72px]" data-node-id="0:280">
+464:          <div className="absolute bg-white h-[330px] left-[374px] overflow-clip rounded-[10px] top-0 w-[356px]" data-node-id="0:281" data-name="Background">
+465:            <div className="-translate-x-1/2 absolute left-1/2 size-[86px] top-[57px]" data-node-id="0:282" data-name="Fast UAE Delivery">
+470:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[28px] justify-center leading-[0] left-[calc(50%+0.17px)] not-italic text-[#484a51] text-[20px] text-center top-[183px] uppercase w-[181.721px]" data-node-id="0:283">
+473:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[calc(50%+0.09px)] not-italic text-[#484a51] text-[16px] text-center top-[239.2px] w-[288.72px]" data-node-id="0:284">
+479:          <div className="absolute bg-white h-[330px] left-[748px] overflow-clip rounded-[10px] top-0 w-[356px]" data-node-id="0:285" data-name="Background">
+480:            <div className="-translate-x-1/2 absolute left-1/2 size-[86px] top-[57px]" data-node-id="0:286" data-name="Scientifically Driven">
+485:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[28px] justify-center leading-[0] left-[calc(50%+0.17px)] not-italic text-[#484a51] text-[20px] text-center top-[183px] uppercase w-[217.038px]" data-node-id="0:287">
+488:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[calc(50%+0.09px)] not-italic text-[#484a51] text-[16px] text-center top-[239.2px] w-[285.28px]" data-node-id="0:288">
+494:          <div className="absolute bg-white h-[330px] left-[1122px] overflow-clip rounded-[10px] top-0 w-[356px]" data-node-id="0:289" data-name="Background">
+495:            <div className="-translate-x-1/2 absolute left-1/2 size-[86px] top-[57px]" data-node-id="0:290" data-name="Secure and Reliable">
+500:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[28px] justify-center leading-[0] left-[calc(50%+0.17px)] not-italic text-[#484a51] text-[20px] text-center top-[183px] uppercase w-[182.251px]" data-node-id="0:291">
+503:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[62.41px] justify-center leading-[0] left-[calc(50%+0.09px)] not-italic text-[#484a51] text-[16px] text-center top-[239.2px] w-[245.94px]" data-node-id="0:292">
+511:      <div className="absolute h-[38px] left-[76.8px] right-[1690.76px] rounded-[5px] top-[5753.56px]" data-node-id="0:293" data-name="Background">
+515:        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[76.41px] not-italic text-[18px] text-center text-white top-[19px] w-[112.814px]" data-node-id="0:294">
+519:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[76.8px] not-italic right-[1408.02px] text-[#484a51] text-[40px] text-center top-[5831.56px]" data-node-id="0:295">
+522:      <div className="absolute h-[373px] left-[76.8px] overflow-clip right-[76.79px] top-[5881.56px]" data-node-id="0:296" data-name="Container">
+523:        <div className="absolute h-[368px] left-0 overflow-x-auto overflow-y-clip right-0 top-0" data-node-id="0:297" data-name="Container">
+524:          <div className="[word-break:break-word] absolute bottom-[307.41px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[416.04px] not-italic text-[#484a51] text-[20px] top-[36.59px] uppercase w-[54.065px]" data-node-id="0:298">
+527:          <div className="[word-break:break-word] absolute bottom-[220.8px] flex flex-col font-['Kanit:Regular'] justify-center leading-[0] left-[416.04px] not-italic text-[#484a51] text-[16px] top-[65.59px] w-[297.45px]" data-node-id="0:299">
+533:          <div className="[word-break:break-word] absolute bottom-[177.6px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[416.04px] not-italic text-[#05d2fe] text-[20px] top-[160.4px] w-[123.27px]" data-node-id="0:300">
+536:          <div className="absolute bg-[#05d2fe] bottom-[84.6px] left-[416.04px] rounded-[10px] top-[233.4px] w-[315px]" data-node-id="0:301" data-name="Link">
+537:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[calc(50%+0.2px)] not-italic text-[20px] text-center text-white top-1/2 w-[120.476px]" data-node-id="0:302">
+548:          <div className="[word-break:break-word] absolute bottom-[297.82px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[1323.25px] not-italic text-[#484a51] text-[20px] top-[46.18px] uppercase w-[105.643px]" data-node-id="0:305">
+551:          <div className="[word-break:break-word] absolute bottom-[230.41px] flex flex-col font-['Kanit:Regular'] justify-center leading-[0] left-[1323.25px] not-italic text-[#484a51] text-[16px] top-[75.18px] w-[297.32px]" data-node-id="0:306">
+556:          <div className="[word-break:break-word] absolute bottom-[187.21px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[1323.25px] not-italic text-[#05d2fe] text-[20px] top-[150.79px] w-[110.571px]" data-node-id="0:307">
+559:          <div className="absolute bg-[#05d2fe] bottom-[94.21px] left-[1323.25px] rounded-[10px] top-[223.79px] w-[315px]" data-node-id="0:308" data-name="Link">
+560:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[calc(50%+0.19px)] not-italic text-[20px] text-center text-white top-1/2 w-[120.476px]" data-node-id="0:309">
+571:          <div className="[word-break:break-word] absolute bottom-[307.41px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[2230.45px] not-italic text-[#484a51] text-[20px] top-[36.59px] uppercase w-[218.98px]" data-node-id="0:312">
+574:          <div className="[word-break:break-word] absolute bottom-[220.8px] flex flex-col font-['Kanit:Regular'] justify-center leading-[0] left-[2230.45px] not-italic text-[#484a51] text-[16px] top-[65.59px] w-[292.17px]" data-node-id="0:313">
+580:          <div className="[word-break:break-word] absolute bottom-[177.6px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[2230.45px] not-italic text-[#05d2fe] text-[20px] top-[160.4px] w-[109.92px]" data-node-id="0:314">
+583:          <div className="absolute bg-[#05d2fe] bottom-[84.6px] left-[2230.45px] rounded-[10px] top-[233.4px] w-[315px]" data-node-id="0:315" data-name="Link">
+584:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[calc(50%+0.19px)] not-italic text-[20px] text-center text-white top-1/2 w-[120.476px]" data-node-id="0:316">
+595:          <div className="[word-break:break-word] absolute bottom-[297.82px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[3137.65px] not-italic text-[#484a51] text-[20px] top-[46.18px] uppercase w-[65.49px]" data-node-id="0:319">
+598:          <div className="[word-break:break-word] absolute bottom-[230.41px] flex flex-col font-['Kanit:Regular'] justify-center leading-[0] left-[3137.65px] not-italic text-[#484a51] text-[16px] top-[75.18px] w-[268.92px]" data-node-id="0:320">
+603:          <div className="[word-break:break-word] absolute bottom-[187.21px] flex flex-col font-['Kanit:Medium'] justify-center leading-[0] left-[3137.65px] not-italic text-[#05d2fe] text-[20px] top-[150.79px] w-[109.249px]" data-node-id="0:321">
+606:          <div className="absolute bg-[#05d2fe] bottom-[94.21px] left-[3137.65px] rounded-[10px] top-[223.79px] w-[315px]" data-node-id="0:322" data-name="Link">
+607:            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[30px] justify-center leading-[0] left-[calc(50%+0.2px)] not-italic text-[20px] text-center text-white top-1/2 w-[120.476px]" data-node-id="0:323">
+619:        <div className="absolute bg-[#d6dee3] h-[5px] left-0 overflow-clip right-0 rounded-[50px] top-[368px]" data-node-id="0:326" data-name="Background">
+623:      <div className="absolute bg-black h-[625.39px] left-0 opacity-50 right-0 top-[6451.35px]" data-node-id="0:328" data-name="Background" />
+624:      <div className="absolute h-[625.39px] left-0 overflow-clip right-0 top-[6451.35px]" data-node-id="0:329" data-name="Container">
+625:        <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[1080px] left-1/2 top-[calc(50%-0.01px)] w-[1920px]" data-node-id="0:330" data-name="image">
+630:        <div className="absolute bg-black h-[625.39px] left-0 opacity-50 top-0 w-[1920px]" data-node-id="0:331" data-name="Background" />
+632:      <div className="absolute bg-white h-[385.39px] left-[200px] right-[200px] rounded-[12px] top-[6571.35px]" data-node-id="0:332" data-name="Background">
+633:        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[689.77px] not-italic right-[689.47px] text-[#05d2fe] text-[18px] text-center top-[103px]" data-node-id="0:333">
+636:        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[471.73px] not-italic right-[471.43px] text-[#484a51] text-[40px] text-center top-[142px]" data-node-id="0:334">
+639:        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[48px] justify-center leading-[0] left-[178.45px] not-italic right-[178.04px] text-[#484a51] text-[16px] text-center top-[196px]" data-node-id="0:335">
+643:        <div className="absolute h-[27px] left-[166px] right-[166px] top-[264.39px]" data-node-id="0:336" data-name="List">
+647:          <div className="-translate-x-1/2 absolute bottom-[6.5px] left-[calc(50%+82.39px)] overflow-clip top-[6.5px] w-[14px]" data-node-id="0:338" data-name="Item → Link → SVG">
+654:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[939.11px] not-italic right-[938.78px] text-[#05d2fe] text-[18px] text-center top-[7205.74px]" data-node-id="0:340">
+657:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[634.66px] not-italic right-[634.32px] text-[#484a51] text-[40px] text-center top-[7254.74px]" data-node-id="0:341">
+660:      <div className="absolute h-[245px] left-[200px] right-[200px] top-[7314.74px]" data-node-id="0:342" data-name="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
+661:        <div className="absolute bg-white border-2 border-[#05d2fe] border-solid h-[71px] left-0 overflow-clip right-0 rounded-[20px] top-0" data-node-id="0:343" data-name="Details">
+662:          <div className="absolute h-[67px] left-0 right-0 rounded-[10px] top-0" data-node-id="0:344" data-name="Slot → Summary">
+663:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[27px] justify-center leading-[0] left-[34px] not-italic text-[#484a51] text-[18px] top-1/2 w-[147.844px]" data-node-id="0:345">
+666:            <div className="absolute right-[30px] size-[38px] top-[13.5px]" data-node-id="0:346" data-name="SVG">
+671:        <div className="absolute bg-white border-2 border-[#05d2fe] border-solid h-[71px] left-0 overflow-clip right-0 rounded-[20px] top-[87px]" data-node-id="0:350" data-name="Details">
+672:          <div className="absolute h-[67px] left-0 right-0 rounded-[10px] top-0" data-node-id="0:351" data-name="Slot → Summary">
+673:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[27px] justify-center leading-[0] left-[34px] not-italic text-[#484a51] text-[18px] top-1/2 w-[357.719px]" data-node-id="0:352">
+676:            <div className="absolute right-[30px] size-[38px] top-[13.5px]" data-node-id="0:353" data-name="SVG">
+681:        <div className="absolute bg-white border-2 border-[#05d2fe] border-solid h-[71px] left-0 overflow-clip right-0 rounded-[20px] top-[174px]" data-node-id="0:357" data-name="Details">
+682:          <div className="absolute h-[67px] left-0 right-0 rounded-[10px] top-0" data-node-id="0:358" data-name="Slot → Summary">
+683:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:SemiBold'] h-[27px] justify-center leading-[0] left-[34px] not-italic text-[#484a51] text-[18px] top-1/2 w-[338.242px]" data-node-id="0:359">
+686:            <div className="absolute right-[30px] size-[38px] top-[13.5px]" data-node-id="0:360" data-name="SVG">
+692:      <div className="absolute h-[27px] left-[196px] right-[196px] top-[7585.74px]" data-node-id="0:364" data-name="List">
+696:        <div className="-translate-x-1/2 absolute bottom-[6.5px] left-[calc(50%+60.13px)] overflow-clip top-[6.5px] w-[14px]" data-node-id="0:366" data-name="Item → Link → SVG">
+702:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[18px] justify-center leading-[0] left-[857.28px] not-italic right-[856.92px] text-[#05d2fe] text-[18px] text-center top-[7741.74px]" data-node-id="0:368">
+705:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Medium'] h-[40px] justify-center leading-[0] left-[725.17px] not-italic right-[724.81px] text-[#484a51] text-[40px] text-center top-[7790.74px]" data-node-id="0:369">
+708:      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[633.22px] not-italic right-[632.9px] text-[#484a51] text-[16px] text-center top-[7842.74px]" data-node-id="0:370">
+711:      <div className="absolute bg-[rgba(255,255,255,0.75)] h-[468.09px] left-[76.8px] right-[76.79px] top-[7907.52px]" data-node-id="0:371" data-name="Region - Instagram feed">
+712:        <div className="absolute h-[458.09px] left-0 right-0 top-0" data-node-id="0:372" data-name="List">
+713:          <div className="absolute h-[434.09px] left-0 right-[1332.32px] top-[12px]" data-node-id="0:373" data-name="Listitem → Link → PERFORMANCE IS BIOLOGYTraining is only one part of the equationRecovery, metabolism, tissue health, cellular signalling and adaptation all influence how the human body performsThat’s why peptide science is becoming such an interesting area of research within human performanceThe next generation of performance optimisation may come from understanding the body at a much deeper level">
+718:          <div className="absolute h-[434.09px] left-[444.09px] right-[888.21px] top-[12px]" data-node-id="0:374" data-name="Listitem → Link → WHY ALL THE INTEREST IN PEPTIDES?Because peptides give us a fascinating way of interacting with the body’s own biological signalling systemsTheir ability to target specific pathways is opening new areas of research across metabolic health, recovery, performance and longevityWe’re only beginning to understand how much potential this field may haveAnd that’s what makes peptides so exciting">
+723:          <div className="absolute h-[434.09px] left-[888.2px] overflow-clip right-[444.12px] top-[12px]" data-node-id="0:375" data-name="Listitem">
+724:            <div className="absolute h-[434.09px] left-0 right-0 top-0" data-node-id="0:376" data-name="Link → Small molecules, big messages. Peptides interact with the body in different ways and each has its own role to explore">
+729:            <div className="absolute drop-shadow-[0px_0px_2px_rgba(0,0,0,0.4)] overflow-clip right-[12px] size-[24px] top-[12px]" data-node-id="0:377" data-name="Img - Clone">
+735:          <div className="absolute h-[434.09px] left-[1332.29px] right-[0.01px] top-[12px]" data-node-id="0:380" data-name="Listitem → Link → Peptides are already part of you">
+742:      <div className="-translate-x-1/2 absolute h-[435.39px] left-1/2 top-[8375.61px] w-[1920px]" data-node-id="0:381" data-name="Footer">
+746:        <div className="absolute border-[rgba(255,255,255,0.71)] border-b border-solid h-[261px] left-[84.3px] right-[69.29px] top-[96px]" data-node-id="0:382" data-name="HorizontalBorder">
+748:            <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[63.719px] left-1/2 overflow-clip top-1/2 w-[377.92px]" data-node-id="0:384" data-name="logo-horizontal-blue-white-1.svg">
+766:            <div className="absolute h-[24px] left-0 right-0 top-0" data-node-id="0:399" data-name="Item → Link">
+767:              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[34.75px] not-italic text-[16px] text-white top-1/2 w-[102.188px]" data-node-id="0:400">
+774:            <div className="absolute h-[24px] left-0 right-0 top-[54px]" data-node-id="0:405" data-name="Item → Link">
+775:              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[34.75px] not-italic text-[16px] text-white top-1/2 w-[158.733px]" data-node-id="0:406">
+782:            <div className="absolute h-[48px] left-0 right-0 top-[108px]" data-node-id="0:410" data-name="Item">
+783:              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[48px] justify-center leading-[0] left-[34.75px] not-italic text-[16px] text-white top-1/2 w-[346.86px]" data-node-id="0:411">
+793:            <div className="absolute h-[30px] left-0 right-[158.72px] top-0" data-node-id="0:416" data-name="Item → Link">
+794:              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-0 not-italic text-[0px] text-white top-[10px] w-[42.218px]" data-node-id="0:417">
+797:              <div className="absolute bg-[#05d2fe] bottom-0 h-[2px] left-0 right-0 rounded-[50px]" data-node-id="0:418" data-name="Horizontal Divider" />
+799:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-0 not-italic right-[133.7px] text-[16px] text-white top-[52px]" data-node-id="0:419">
+802:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-0 not-italic right-[163.72px] text-[16px] text-white top-[94px]" data-node-id="0:420">
+805:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-0 not-italic right-[164.38px] text-[16px] text-white top-[136px]" data-node-id="0:421">
+808:            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-0 not-italic right-[122.6px] text-[16px] text-white top-[178px]" data-node-id="0:422">
+821:              <div className="absolute h-[19px] left-[30px] opacity-60 overflow-clip right-[16px] top-[13.3px]" data-node-id="0:427" data-name="Container">
+822:                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Roboto:Regular'] font-normal h-[19px] justify-center leading-[0] left-0 text-[#7a7a7a] text-[16px] top-[9.5px] w-[39.931px]" data-node-id="0:428" style={{ fontVariationSettings: '"wdth" 100' }}>
+828:              <div className="absolute h-[16px] left-[55.61px] overflow-clip right-[35.61px] top-[15.5px]" data-node-id="0:430" data-name="SVG">
+839:        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Kanit:Regular'] h-[24px] justify-center leading-[0] left-[866.41px] not-italic right-[851.4px] text-[16px] text-white top-[399px]" data-node-id="0:434">
+842:        <div className="[word-break:break-word] absolute font-['Kanit:Regular'] h-[24px] leading-[0] left-[605.93px] not-italic right-[590.91px] text-[16px] text-white top-[387px]" data-node-id="0:435" data-name="List">
+--- text nodes ---
+Search
+About Us
+Shop
+FAQs
+Contact Us
+0
+ADVANCED BIOTECHNOLOGY
+Restore. 
+              Rebalance.
+               Reiginite.
+Science-driven peptides engineered to support performance, recovery, longevity, and metabolic
+optimization.
+Shop Now
+48x Labs Peptides are certified by the Emirates Drug Establishment, ensuring trusted quality and compliance with UAE regulatory
+standards
+Next-day delivery
+.
+Locally tested
+.
+Cold-chain shipped
+.
+Every batch tested
+.
+Next-day delivery
+.
+Locally tested
+.
+Cold-chain shipped
+.
+WEIGHT LOSS
+Targeted solutions designed to
+support body composition and
+metabolic wellness.
+MUSCLE BUILDING
+Advanced performance support for
+strength, growth, and physical
+optimisation.
+ANTI AGING
+Science-backed solutions focused on
+longevity, vitality, and cellular
+wellness.
+RECOVERY
+Support your body’s repair process,
+resilience, and post-performance
+recovery.
+FEATURED PRODUCTS
+FEATURED PEPTIDE FORMULATIONS
+Explore selected products across metabolic support, recovery, cognitive wellness, and longevity-focused protocols.
+GLP-X3
+GLP-X3 is described in the source as an advanced
+injectable medicine being studied for
+DHS. 2,200.00
+Glow
+A three-peptide formula combining GHK-Cu, BPC-
+157 and TB-500 for skin-quality, collagen-
+signalling and recovery-focused protocols.
+DHS. 1,099.00
+Wolverine
+A two-peptide formula combining BPC-157 and
+TB-500 for muscle, tendon, ligament and
+recovery-focused protocols.
+DHS. 699.00
+KISSpeptin 10-acetate
+A hormone-axis focused peptide designed for
+advanced vitality, reproductive wellness, and
+performance-optimisation protocol categories.
+DHS. 649.00
+Semax
+A cognitive-performance peptide for focus,
+clarity, and neuro-performance protocol
+categories.
+DHS. 720.00
+Selank
+A calm-focus peptide for cognitive wellness,
+stress-response, and daytime optimisation
+protocols.
+DHS. 660.00
+See All Products
+STATISTICS
+Trusted Peptides, Verified Results
+99%
+PURITY
+Brown outer casing for
+UV protection
+TRUSTED QUALITY
+Every product is sourced and handled
+with strict quality standards to ensure
+consistency, purity, and reliability.
+FAST UAE DELIVERY
+Secure next-day delivery across the UAE
+so your wellness routine never slows
+down.
+SCIENTIFICALLY DRIVEN
+Built around advanced peptide research
+and modern biotechnology to support
+real performance outcomes.
+SECURE & RELIABLE
+Safe checkout, trusted service, and
+responsive customer support for a
+seamless shopping experience.
+NEW ARRIVAL
+New Wellness Essentials
+Glow
+A three-peptide formula combining GHK-
+Cu, BPC-157 and TB-500 for skin-quality,
+collagen-signalling and recovery-focused
+protocols.
+DHS. 1,099.00
+View Product
+Wolverine
+A two-peptide formula combining BPC-
+157 and TB-500 for muscle, tendon,
+ligament and recovery-focused protocols.
+DHS. 699.00
+View Product
+KISSpeptin 10-acetate
+A hormone-axis focused peptide
+designed for advanced vitality,
+reproductive wellness, and performance-
+optimisation protocol categories.
+DHS. 649.00
+View Product
+Semax
+A cognitive-performance peptide for
+focus, clarity, and neuro-performance
+protocol categories.
+DHS. 720.00
+View Product
+ABOUT 48x LABS
+Biotechnology Solutions in UAE
+We combine advanced biotechnology with modern wellness innovation to create premium peptide solutions designed for performance, recovery, and longevity. Our
+mission is to deliver scientifically inspired products that empower individuals to optimize their health with confidence.
+Read More About Us
+FAQS
+Find Answers to Common Questions
+What is 48x Labs?
+What type of products does 48x Labs offer?
+Who are 48x Labs products intended for?
+Check All FAQs
+FOLLOW OUR INSTAGRAM
+Join the 48x Labs Journey
+Explore wellness insights, product highlights, recovery tips, and behind-the-scenes content.
+Science-driven peptides engineered to support performance, recovery,
+longevity, and metabolic optimization.
++971562114848
+support@48xlabs.com
+Nation Towers, Corniche, Abu Dhabi, United Arab
+Emirates
+Home
+About Us
+Shop
+FAQs
+Contact Us
+Join Our Email List
+Get exclusive deals and early access to new
+products.
+Email
+Copyrights@ 2026 All Rights
+Terms & Conditions
+Shipping Policy
+Return & Refund
+Privacy Policy
+Cookies Policy
+
+--- stderr ---
